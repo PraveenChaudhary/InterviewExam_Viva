@@ -9,6 +9,11 @@
 
 🏆 *Built during the GenAI Hackathon Delhi - Awarded "Most Use of Google GenAI".*
 
+> **Note:** This repository contains the initial hackathon version. For a demonstration of the final, fully-featured version, or to discuss technical opportunities in AI/ML,Mobile App development & Software Development please reach out:
+> 
+> 📧 **Email:** Praveenchaudhary3@gmail.com
+> 📞 **Phone:** +91-8368107816
+
 ## ✨ Features
 
 * 📄 **Multi-Format Document Processing:** Upload large documents (`.pdf`, `.docx`, `.txt`) or paste text directly. 
